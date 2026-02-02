@@ -17,3 +17,10 @@ I got a little confused, sorry. Like the filter condition, this is the final cor
 For your reference but it does not have all tables 
 Can I copy the entire chat and paste it in the chatgpt that I use there 
 Give the thing that covers the content of everything in this chat in one message that should not miss anything 
+
+
+
+
+
+Change the row height for the following accordingly - subtitle - 14.75 points, header of the table - 33 points, records inside the table (including the last row), - 13.25 points In Selected for Audit Tab, The column width for Claim Status field should be 24.29 points
+In History Claims Tab, change the font to Arial 8 in the table header. The column width for Claim Status field should be 18.27 In Not Selected for Audit Tab, change the font for subtitle (row 1) and header of the table to Arial 8 The column width for Claim Status field should be 18.57 In Stopped Claims Tab, change the font in Subtitle (row 1, 2) to Arial 8
